@@ -1,5 +1,5 @@
 <h1>Sketchy: an 'Etch-a-Sketch' project</h1>
-This was a project I made from <a href="theodinproject.com">The Odin Project</a>. 
+This was a project I made from <a href="https://www.theodinproject.com/">The Odin Project</a>. 
 
 If you'd like to check out the working version, you can take it for a spin here: <a href="https://johncoryk.github.io/etch-a-sketch/">Sketchy</a>.
 
