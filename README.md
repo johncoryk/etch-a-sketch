@@ -1,7 +1,7 @@
 <h1>Sketchy: an 'Etch-a-Sketch' project</h1>
 This was a project I made from <a href="theodinproject.com">The Odin Project</a>. 
 
-If you'd like to check out the working version, you can take it for a spin here: <a href="johncoryk.github.io/etch-a-sketch">Sketchy</a>.
+If you'd like to check out the working version, you can take it for a spin here: <a href="https://johncoryk.github.io/etch-a-sketch/">Sketchy</a>.
 
 <h2>My Process</h2>
 This project was hard... very hard. This honestly was the first time that I thought 'coding' or 'programming' just was not for me. After seeing this project pop up in the curriculum I had instant 'deer in the headlights'--I had no idea where to start.
