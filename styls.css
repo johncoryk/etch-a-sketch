@@ -1,0 +1,79 @@
+/* * {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+body {
+  font-family: 'proxima-nova', sans-serif;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 5px 15px;
+  margin: 18px 18px;
+  border: none;
+  background-color: #BDCCD4;
+  color: #375A7D;
+  font-family: 'proxima-nova-condensed', sans-serif;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+p {
+  color: #375A7D;
+  font-weight: bold;
+  font-family: 'proxima-nova-condensed', sans-serif;
+  padding: 20px;
+}
+
+#black-btn {
+  background-color: black;
+  color: white;
+}
+
+#clear-btn {
+  background-color: #FFAB1E;
+}
+
+.header {
+  padding-top: 10px;
+  margin-top: -50px;
+  margin-bottom: -20px;
+  margin-left: -20px;
+  margin-right: -20px;
+  background-color: #BDCCD4;
+  text-align: center;;
+}
+
+.logo {
+  padding: 30px 0;
+  font-size: 3rem;
+  color: #375A7D;
+}
+
+#container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#grid-container {
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: repeat(16, 1fr);
+  grid-template-rows: repeat(16, 1fr);
+  width: 500px;
+  height: 500px;
+  background: #BDCCD4;
+  border: 5px solid #FFAB1E;
+}
+
+.cell {
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+
+
+
